@@ -1,0 +1,481 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.11)  6 MAY 2017 19:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Fractional.tex
+(./Fractional.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen113
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen114
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks20
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks21
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box30
+\lst@token=\toks24
+\lst@length=\count105
+\lst@currlwidth=\dimen122
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen125
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box31
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(./Fractional.aux)
+\openout1 = `Fractional.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen126
+\scratchbox=\box32
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen127
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count118
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./Fractional.toc)
+\tf@toc=\write3
+\openout3 = `Fractional.toc'.
+
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+[2] <Rplot.png, id=22, 1003.75pt x 752.8125pt>
+File: Rplot.png Graphic file (type png)
+ <use Rplot.png>
+Package pdftex.def Info: Rplot.png used on input line 77.
+(pdftex.def)             Requested size: 418.25368pt x 313.6979pt.
+ [3 <./Rplot.png>] <Rplot01.png, id=28, 1003.75pt x 752.8125pt>
+File: Rplot01.png Graphic file (type png)
+ <use Rplot01.png>
+Package pdftex.def Info: Rplot01.png used on input line 90.
+(pdftex.def)             Requested size: 418.25368pt x 313.6979pt.
+
+Overfull \hbox (35.4519pt too wide) detected at line 95
+\OML/cmm/m/it/10 TIME \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 445
+568\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 03) + (2\OML/cmm/m/i
+t/10 :\OT1/cmr/m/n/10 740265\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/
+n/10 07) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE \OT1/cmr/m/n/10 + (1\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 021602\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/c
+mr/m/n/10 13) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (\
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 799047\OM
+L/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 20) \OMS/cmsy/m/n/10 ^^C \
+OML/cmm/m/it/10 SIZE[]
+ []
+
+<Rplot02.png, id=29, 1003.75pt x 796.9775pt>
+File: Rplot02.png Graphic file (type png)
+ <use Rplot02.png>
+Package pdftex.def Info: Rplot02.png used on input line 103.
+(pdftex.def)             Requested size: 418.25368pt x 332.10152pt.
+ [4 <./Rplot01.png>]
+Overfull \hbox (163.65009pt too wide) detected at line 108
+\OML/cmm/m/it/10 TIME \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\
+OML/cmm/m/it/10 :\OT1/cmr/m/n/10 096532\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ 
+\OT1/cmr/m/n/10 03) + (3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 222104\OML/cmm/m/it/1
+0 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 07) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it
+/10 SIZE \OT1/cmr/m/n/10 + (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/
+10 :\OT1/cmr/m/n/10 100373\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/
+10 13) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (2\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 577337\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/c
+mr/m/n/10 19) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (\
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 612496\OM
+L/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 25) \OMS/cmsy/m/n/10 ^^C \
+OML/cmm/m/it/10 SIZE[]
+ []
+
+<Rplot03.png, id=34, 1003.75pt x 796.9775pt>
+File: Rplot03.png Graphic file (type png)
+ <use Rplot03.png>
+Package pdftex.def Info: Rplot03.png used on input line 116.
+(pdftex.def)             Requested size: 418.25368pt x 332.10152pt.
+ [5 <./Rplot02.png>] [6 <./Rplot03.png>] <Rplot04.png, id=43, 1003.75pt x 796.9
+775pt>
+File: Rplot04.png Graphic file (type png)
+
+<use Rplot04.png>
+Package pdftex.def Info: Rplot04.png used on input line 138.
+(pdftex.def)             Requested size: 418.25368pt x 332.10152pt.
+ <Rplot06.png, id=44, 1003.75pt x 869.2475pt>
+File: Rplot06.png Graphic file (type png)
+
+<use Rplot06.png>
+Package pdftex.def Info: Rplot06.png used on input line 152.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+ [7 <./Rplot04.png>]
+Overfull \hbox (43.2297pt too wide) detected at line 157
+\OML/cmm/m/it/10 TIME \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 8\
+OML/cmm/m/it/10 :\OT1/cmr/m/n/10 914651\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ 
+\OT1/cmr/m/n/10 02) + (7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 013543\OML/cmm/m/it/1
+0 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 06) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it
+/10 SIZE \OT1/cmr/m/n/10 + (4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 481650\OML/cmm/m
+/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 12) \OMS/cmsy/m/n/10 ^^C \OML/cmm
+/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 202501\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/c
+mr/m/n/10 18) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[]
+ []
+
+<Rplot07.png, id=50, 1003.75pt x 869.2475pt>
+File: Rplot07.png Graphic file (type png)
+ <use Rplot07.png>
+Package pdftex.def Info: Rplot07.png used on input line 165.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+ [8 <./Rplot06.png>]
+Overfull \hbox (148.09448pt too wide) detected at line 170
+\OML/cmm/m/it/10 TIME \OT1/cmr/m/n/10 = (2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 749
+202\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 02) + (4\OML/cmm/m/i
+t/10 :\OT1/cmr/m/n/10 802733\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/
+n/10 06) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE \OT1/cmr/m/n/10 + (1\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 421785\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/c
+mr/m/n/10 11) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (\
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 714762\OM
+L/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 17) \OMS/cmsy/m/n/10 ^^C \
+OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 39
+8573\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 24) \OMS/cmsy/m/n/1
+0 ^^C \OML/cmm/m/it/10 SIZE[]
+ []
+
+<Rplot08.png, id=55, 1003.75pt x 869.2475pt>
+File: Rplot08.png Graphic file (type png)
+ <use Rplot08.png>
+Package pdftex.def Info: Rplot08.png used on input line 178.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+ [9 <./Rplot07.png>]
+Overfull \hbox (268.51486pt too wide) detected at line 183
+\OML/cmm/m/it/10 TIME \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 4\
+OML/cmm/m/it/10 :\OT1/cmr/m/n/10 112013\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ 
+\OT1/cmr/m/n/10 02) + (6\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 707867\OML/cmm/m/it/1
+0 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 06) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it
+/10 SIZE \OT1/cmr/m/n/10 + (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 275650\OML/cmm/m
+/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 12) \OMS/cmsy/m/n/10 ^^C \OML/cmm
+/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 676458\OM
+L/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 17) \OMS/cmsy/m/n/10 ^^C \
+OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/10 + (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3
+\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 027888\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@
+ \OT1/cmr/m/n/10 23) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[] \OT1/cmr/m/n/
+10 + (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 492176\OML/cmm/m/it/10 e \OMS/cmsy/m/n
+/10 ^^@ \OT1/cmr/m/n/10 29) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 SIZE[]
+ []
+
+<Rplot09.png, id=60, 1003.75pt x 869.2475pt>
+File: Rplot09.png Graphic file (type png)
+ <use Rplot09.png>
+Package pdftex.def Info: Rplot09.png used on input line 191.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+ [10 <./Rplot08.png>] <Rplot05.png, id=65, 1003.75pt x 869.2475pt>
+File: Rplot05.png Graphic file (type png)
+ <use Rplot05.png>
+Package pdftex.def Info: Rplot05.png used on input line 205.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+ [11 <./Rplot09.png>] <Rplot10.png, id=70, 1003.75pt x 869.2475pt>
+File: Rplot10.png Graphic file (type png)
+ <use Rplot10.png>
+Package pdftex.def Info: Rplot10.png used on input line 219.
+(pdftex.def)             Requested size: 418.25368pt x 362.2165pt.
+
+[12 <./Rplot05.png>] [13 <./Rplot10.png>] (./Fractional.aux) ) 
+Here is how much of TeX's memory you used:
+ 4164 strings out of 493014
+ 57746 string characters out of 6133351
+ 128880 words of memory out of 5000000
+ 7639 multiletter control sequences out of 15000+600000
+ 11810 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,32p,661b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Fractional.pdf (13 pages, 569677 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

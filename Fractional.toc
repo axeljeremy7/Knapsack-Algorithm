@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Analysis of the Fractional Knapsack Problem}{2}
+\contentsline {subsection}{\numberline {2.1}Heap Class:}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Build Function - Theoretical Analysis}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Build Function - Empirical Analysis}{3}
+\contentsline {paragraph}{Fitting the points using linear regression}{3}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 2}{4}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 3}{4}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 4}{5}
+\contentsline {subsection}{\numberline {2.2}Knapsack Class:}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Testing the algorithm:}{6}
+\contentsline {paragraph}{Fitting the points using linear regression}{7}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 2}{7}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 3}{8}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 4}{9}
+\contentsline {paragraph}{Fitting the points using Polynomial regression of grade 5}{10}
+\contentsline {paragraph}{Fitting the points using n*log(n) curve}{11}
+\contentsline {paragraph}{Fitting the points using n*log(n) curve with addition of two functions}{12}
